@@ -1,8 +1,8 @@
-# BikeHat
+# MotoSolution
 
 ## Introduction
 
-> Bike Hat is a simple single vendor E-commerce app with react. 
+> Moto Solution - A Complete MERN Project. 
 
 ## Features
 
